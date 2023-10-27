@@ -1,5 +1,5 @@
 # Currency Converter
-Currency converter using HTML, CSS and JavaScript
+Currency converter using HTML, CSS and JavaScript.
 
 
-[Click here](*click_here)
+[Click here to access](https://vanvilas.github.io/currency_converter_1/)
